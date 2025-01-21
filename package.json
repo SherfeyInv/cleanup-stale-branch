@@ -49,7 +49,7 @@
     "@octokit/core": "^4.2.0",
     "@octokit/plugin-retry": "^4.1.1",
     "@slack/web-api": "^7.0.4",
-    "discord.js": "^14.14.1",
+    "discord.js": "^14.17.3",
     "lodash.deburr": "^4.1.0",
     "semver": "^7.5.4"
   },
